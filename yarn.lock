@@ -904,15 +904,18 @@ crypto-browserify@^3.0.0:
     public-encrypt "^4.0.0"
     randombytes "^2.0.0"
 
-cssom@0.3.x, "cssom@>= 0.3.2 < 0.4.0":
-  version "0.3.2"
-  resolved "https://registry.yarnpkg.com/cssom/-/cssom-0.3.2.tgz#b8036170c79f07a90ff2f16e22284027a243848b"
-
-"cssstyle@>= 0.2.37 < 0.3.0":
-  version "0.2.37"
-  resolved "https://registry.yarnpkg.com/cssstyle/-/cssstyle-0.2.37.tgz#541097234cb2513c83ceed3acddc27ff27987d54"
+css-object-model@^0.0.3:
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/css-object-model/-/css-object-model-0.0.3.tgz#508cf0eaefd9f8cb354cfce8779a5689a18c928c"
   dependencies:
-    cssom "0.3.x"
+    css-tree "^1.0.0-alpha19"
+    domexception "^1.0.0"
+
+css-tree@^1.0.0-alpha19:
+  version "1.0.0-alpha9"
+  resolved "https://registry.yarnpkg.com/css-tree/-/css-tree-1.0.0-alpha9.tgz#6ee3e397b569eef32419286c86e3e8b65fcaf3e3"
+  dependencies:
+    source-map "^0.5.3"
 
 custom-event@~1.0.0:
   version "1.0.1"
