@@ -111,6 +111,59 @@ simple-requests.htm: [fail, Maybe https://github.com/tmpvar/jsdom/issues/1833 bu
 
 ---
 
+DIR: cssom
+
+CSS.html: [fail, Unknown]
+CSSKeyframeRule.html: [fail, Unknown]
+CSSKeyframesRule.html: [fail, Unknown]
+CSSNamespaceRule.html: [fail, Unknown]
+CSSRuleList.html: [fail, Unknown]
+CSSStyleRule.html: [fail, Unknown]
+CSSStyleSheet.html: [fail, Unknown]
+GetBoundingRect.html: [fail, Unknown]
+MediaList.html: [fail, Unknown]
+MediaList.xhtml: [fail, Unknown]
+computed-style-001.html: [fail, Unknown]
+css-style-attribute-modifications.html: [fail, Unknown]
+css-style-declaration-modifications.html: [fail, Unknown]
+cssimportrule.html: [fail, Unknown]
+cssom-cssText-serialize.html: [fail, Unknown]
+cssom-cssstyledeclaration-set.html: [fail, Unknown]
+cssom-fontfacerule-constructors.html: [fail, Causes issues when running later tests]
+cssom-fontfacerule.html: [fail, Unknown]
+cssom-ruleTypeAndOrder.html: [fail, Unknown]
+cssom-setProperty-shorthand.html: [fail, Unknown]
+cssstyledeclaration-csstext.html: [fail, Unknown]
+cssstyledeclaration-mutability.html: [fail, Unknown]
+getComputedStyle-pseudo.html: [fail, Unknown]
+index-001.html: [fail, Unknown]
+index-002.html: [fail, Unknown]
+inline-style-001.html: [fail, Unknown]
+insertRule-charset-no-index.html: [fail, Unknown]
+insertRule-import-no-index.html: [fail, Unknown]
+insertRule-namespace-no-index.html: [fail, Unknown]
+insertRule-no-index.html: [fail, Unknown]
+interfaces.html: [fail, Unknown]
+medialist-interfaces-001.html: [fail, Unknown]
+medialist-interfaces-002.html: [fail, Unknown]
+medialist-interfaces-003.html: [fail, Unknown]
+medialist-interfaces-004.html: [fail, Unknown]
+overflow-serialization.html: [fail, Unknown]
+selectorSerialize.html: [fail, Unknown]
+serialization-CSSDeclaration-with-important.html: [fail, Unknown]
+serialize-namespaced-type-selectors.html: [fail, Unknown]
+serialize-values.html: [fail, Unknown]
+serialize-variable-reference.html: [fail, Unknown]
+shorthand-serialization.html: [fail, Unknown]
+style-sheet-interfaces-001.html: [fail, Unknown]
+style-sheet-interfaces-002.html: [fail, Unknown]
+stylesheet-same-origin.sub.html: [fail, Unknown]
+ttwf-cssom-doc-ext-load-count.html: [fail, Unknown]
+ttwf-cssom-doc-ext-load-tree-order.html: [fail, Unknown]
+variable-names.html: [fail, Unknown]
+
+---
+
 DIR: dom/collections
 
 ---
