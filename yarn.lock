@@ -904,14 +904,14 @@ crypto-browserify@^3.0.0:
     public-encrypt "^4.0.0"
     randombytes "^2.0.0"
 
-css-object-model@^0.0.3:
-  version "0.0.3"
-  resolved "https://registry.yarnpkg.com/css-object-model/-/css-object-model-0.0.3.tgz#508cf0eaefd9f8cb354cfce8779a5689a18c928c"
+css-object-model@^0.1.0:
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/css-object-model/-/css-object-model-0.1.0.tgz#b2602ba0c116b7c0a9e7391ea921945b73c28537"
   dependencies:
-    css-tree "^1.0.0-alpha19"
+    css-tree "^1.0.0-alpha24"
     domexception "^1.0.0"
 
-css-tree@^1.0.0-alpha19:
+css-tree@^1.0.0-alpha24:
   version "1.0.0-alpha9"
   resolved "https://registry.yarnpkg.com/css-tree/-/css-tree-1.0.0-alpha9.tgz#6ee3e397b569eef32419286c86e3e8b65fcaf3e3"
   dependencies:

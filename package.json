@@ -22,7 +22,7 @@
     "acorn-globals": "^4.0.0",
     "array-equal": "^1.0.0",
     "content-type-parser": "^1.0.1",
-    "css-object-model": "^0.0.3",
+    "css-object-model": "^0.1.0",
     "domexception": "^1.0.0",
     "escodegen": "^1.9.0",
     "html-encoding-sniffer": "^1.0.1",
